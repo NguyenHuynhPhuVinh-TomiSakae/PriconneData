@@ -4,6 +4,9 @@ from mysql.connector import Error
 import os
 from gemini_processor import process_character_data, translate_role, format_rating
 
+# Cấu hình hướng xử lý nhân vật
+PROCESS_REVERSE = True  # True: xử lý từ cuối lên đầu, False: xử lý từ đầu xuống cuối
+
 def create_connection(host_name, user_name, user_password, db_name):
     """Tạo kết nối đến MySQL"""
     connection = None
@@ -54,12 +57,22 @@ def import_data_from_json(json_file_path, connection):
         VALUES (%s, %s, %s, %s, %s)
         """
         
+        # Lấy danh sách nhân vật
+        characters = data['characters']
+        
+        # Đảo ngược danh sách nếu cấu hình yêu cầu
+        if PROCESS_REVERSE:
+            characters = list(reversed(characters))
+            print("Đang xử lý nhân vật theo thứ tự từ cuối lên đầu...")
+        else:
+            print("Đang xử lý nhân vật theo thứ tự từ đầu xuống cuối...")
+        
         # Đếm số lượng nhân vật đã xử lý
         processed_count = 0
-        total_count = len(data['characters'])
+        total_count = len(characters)
         
         # Xử lý từng nhân vật
-        for character in data['characters']:
+        for character in characters:
             # Bỏ qua mục không hợp lệ
             if character['name'] is None:
                 continue

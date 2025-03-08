@@ -18,11 +18,21 @@ if not GEMINI_API_KEY:
 # Biến toàn cục để theo dõi thời gian gọi API
 last_api_call_time = 0
 
+# Cấu hình sử dụng Gemini API
+USE_GEMINI_API = False  # Đặt thành False để sử dụng tên gốc, True để chuyển sang romanji
+
 def process_character_data(character):
     """
-    Sử dụng Gemini để xử lý dữ liệu nhân vật
-    - Chỉ chuyển tên tiếng Nhật sang romanji
+    Xử lý dữ liệu nhân vật
+    - Sử dụng Gemini API để chuyển tên tiếng Nhật sang romanji hoặc
+    - Trả về tên gốc tùy theo cấu hình USE_GEMINI_API
     """
+    # Nếu không sử dụng Gemini API, trả về tên gốc ngay lập tức
+    if not USE_GEMINI_API:
+        return {
+            "romanji_name": character['name']
+        }
+    
     global last_api_call_time
     
     # Tạo delay để không vượt quá giới hạn 15 request/phút
