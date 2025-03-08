@@ -1,0 +1,2057 @@
+{
+    "characters": [
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/487832_i.png",
+        "name": "ランファ(儀装束)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4(仮)点",
+        "rating_6_stars": "点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/484456_i.png",
+        "name": "フィオ",
+        "role": "支援型",
+        "rating_below_6_stars": "9.7(仮)点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92870_i.png",
+        "name": "ノゾミ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92871_i.png",
+        "name": "アキノ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.3点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92872_i.png",
+        "name": "マコト",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "8.8点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92873_i.png",
+        "name": "シズル",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92875_i.png",
+        "name": "ジータ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92881_i.png",
+        "name": "クウカ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "8.8点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92882_i.png",
+        "name": "ミヤコ",
+        "role": "耐久型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "8.8点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92883_i.png",
+        "name": "カオリ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "7.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92884_i.png",
+        "name": "エリコ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92885_i.png",
+        "name": "タマキ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92887_i.png",
+        "name": "ペコリーヌ",
+        "role": "耐久型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92888_i.png",
+        "name": "リマ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.0点",
+        "rating_6_stars": "8.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92889_i.png",
+        "name": "クルミ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92890_i.png",
+        "name": "レイ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "7.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92891_i.png",
+        "name": "ヒヨリ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.0点",
+        "rating_6_stars": "8.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92892_i.png",
+        "name": "ミソギ",
+        "role": "支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "6.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92894_i.png",
+        "name": "アンナ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92893_i.png",
+        "name": "サレン",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92895_i.png",
+        "name": "ニノン",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.0点",
+        "rating_6_stars": "8.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92896_i.png",
+        "name": "モニカ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "9.1点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92897_i.png",
+        "name": "アカリ",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92898_i.png",
+        "name": "ミミ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "7.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92899_i.png",
+        "name": "シノブ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.8点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92900_i.png",
+        "name": "マヒル",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92901_i.png",
+        "name": "ミフユ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.1点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92902_i.png",
+        "name": "ミツキ",
+        "role": "支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92903_i.png",
+        "name": "コッコロ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "9.1点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92904_i.png",
+        "name": "ユカリ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.3点",
+        "rating_6_stars": "9.2点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92905_i.png",
+        "name": "ヨリ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "7.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92906_i.png",
+        "name": "リノ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "9.2点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92907_i.png",
+        "name": "マホ",
+        "role": "支援型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92908_i.png",
+        "name": "ハツネ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92920_i.png",
+        "name": "イオ",
+        "role": "支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92909_i.png",
+        "name": "シオリ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "9.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92910_i.png",
+        "name": "ユキ",
+        "role": "支援型",
+        "rating_below_6_stars": "8.0点",
+        "rating_6_stars": "8.8点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92911_i.png",
+        "name": "スズナ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.7点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92912_i.png",
+        "name": "チカ",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "7.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92913_i.png",
+        "name": "キャル",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "9.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92914_i.png",
+        "name": "ユイ",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92915_i.png",
+        "name": "ミサキ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "9.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92916_i.png",
+        "name": "スズメ",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.1点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92917_i.png",
+        "name": "アオイ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.2点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/93551_i.png",
+        "name": "アリサ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.1点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/93640_i.png",
+        "name": "ジュン",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94455_i.png",
+        "name": "ラビリスタ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94456_i.png",
+        "name": "ツムギ",
+        "role": "支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "9.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94457_i.png",
+        "name": "キョウカ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94458_i.png",
+        "name": "ミサト",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "7.5点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94459_i.png",
+        "name": "イリヤ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94460_i.png",
+        "name": "マツリ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.9点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94461_i.png",
+        "name": "トモ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.2点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94463_i.png",
+        "name": "クリスティーナ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "9.7点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94464_i.png",
+        "name": "アヤネ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.0点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94465_i.png",
+        "name": "カスミ",
+        "role": "支援型",
+        "rating_below_6_stars": "8.3点",
+        "rating_6_stars": "9.1点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94466_i.png",
+        "name": "リン",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94467_i.png",
+        "name": "ナナカ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94468_i.png",
+        "name": "ルカ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "9.0点",
+        "rating_6_stars": "9.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94469_i.png",
+        "name": "アユミ",
+        "role": "支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.9点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/109993_i.png",
+        "name": "ペコリーヌ(サマー)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/109994_i.png",
+        "name": "コッコロ(サマー)",
+        "role": "支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/112868_i.png",
+        "name": "スズメ(サマー)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.3点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/114502_i.png",
+        "name": "タマキ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.3点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/114504_i.png",
+        "name": "ミフユ(サマー)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/114528_i.png",
+        "name": "キャル(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/120761_i.png",
+        "name": "シノブ(ハロウィン)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "8.4点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/120762_i.png",
+        "name": "ミヤコ(ハロウィン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.4点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/123926_i.png",
+        "name": "ミサキ(ハロウィン)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/132396_i.png",
+        "name": "チカ(クリスマス)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.2点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/134531_i.png",
+        "name": "アヤネ(クリスマス)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "9.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/132419_i.png",
+        "name": "クルミ(クリスマス)",
+        "role": "支援型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/164532_i.png",
+        "name": "ネネカ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/136547_i.png",
+        "name": "ユイ(ニューイヤー)",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.9点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/138812_i.png",
+        "name": "ヒヨリ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/136267_i.png",
+        "name": "レイ(ニューイヤー)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/141208_i.png",
+        "name": "シズル(バレンタイン)",
+        "role": "支援型",
+        "rating_below_6_stars": "9.6点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/141210_i.png",
+        "name": "エリコ(バレンタイン)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/142756_i.png",
+        "name": "ムイミ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.4点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/146934_i.png",
+        "name": "アン",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/147234_i.png",
+        "name": "グレア",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/146808_i.png",
+        "name": "ルゥ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/149184_i.png",
+        "name": "クウカ(オーエド)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.6点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/150884_i.png",
+        "name": "ニノン(オーエド)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.3点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/154086_i.png",
+        "name": "エミリア",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "8.7点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/152681_i.png",
+        "name": "ラム",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "8.7点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/152682_i.png",
+        "name": "レム",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.0点",
+        "rating_6_stars": "8.6点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/156383_i.png",
+        "name": "スズナ(サマー)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "8.7点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/156384_i.png",
+        "name": "イオ(サマー)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.2点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/158866_i.png",
+        "name": "サレン(サマー)",
+        "role": "支援型",
+        "rating_below_6_stars": "9.6点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/162001_i.png",
+        "name": "マホ(サマー)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "9.3点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/160388_i.png",
+        "name": "マコト(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.7点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/160387_i.png",
+        "name": "カオリ(サマー)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "8.8点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/164701_i.png",
+        "name": "アオイ(編入生)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170425_i.png",
+        "name": "チエル",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/166637_i.png",
+        "name": "クロエ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170426_i.png",
+        "name": "ユニ",
+        "role": "支援型",
+        "rating_below_6_stars": "8.1点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170554_i.png",
+        "name": "キョウカ(ハロウィン)",
+        "role": "支援型",
+        "rating_below_6_stars": "9.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/172697_i.png",
+        "name": "ミミ(ハロウィン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.6点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170555_i.png",
+        "name": "ミソギ(ハロウィン)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "8.3点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/174166_i.png",
+        "name": "ルナ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/175800_i.png",
+        "name": "カヤ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "9.2点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/177169_i.png",
+        "name": "イノリ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "9.2点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/177168_i.png",
+        "name": "ホマレ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/178679_i.png",
+        "name": "ノゾミ(クリスマス)",
+        "role": "支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/178680_i.png",
+        "name": "クリスティーナ(クリスマス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/180708_i.png",
+        "name": "イリヤ(クリスマス)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/249522_i.png",
+        "name": "ペコリーヌ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/182031_i.png",
+        "name": "キャル(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.1点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/183076_i.png",
+        "name": "コッコロ(ニューイヤー)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.3点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/182033_i.png",
+        "name": "スズメ(ニューイヤー)",
+        "role": "支援型",
+        "rating_below_6_stars": "7.5点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/185200_i.png",
+        "name": "カスミ(マジカル)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.4点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/185203_i.png",
+        "name": "シオリ(マジカル)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "7.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/186770_i.png",
+        "name": "ペコリーヌ(プリンセス)",
+        "role": "耐久攻撃型",
+        "rating_below_6_stars": "8.4点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/188928_i.png",
+        "name": "ウヅキ(デレマス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.0点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/190943_i.png",
+        "name": "リン(デレマス)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.2点",
+        "rating_6_stars": "-点"
+      },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/188929_i.png",
+        "name": "ミオ(デレマス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "6.5点",
+        "rating_6_stars": "-点"
+      },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/200838_i.png",
+            "name": "リン(レンジャー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/203217_i.png",
+            "name": "マヒル(レンジャー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/207214_i.png",
+            "name": "リノ(ワンダー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/206761_i.png",
+            "name": "アユミ(ワンダー)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/206754_i.png",
+            "name": "コッコロ(プリンセス)",
+            "role": "支援型",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/213088_i.png",
+            "name": "ルカ(サマー)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/212646_i.png",
+            "name": "アンナ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/214825_i.png",
+            "name": "ナナカ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/212645_i.png",
+            "name": "ユイ(プリンセス)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/218997_i.png",
+            "name": "ミサト(サマー)",
+            "role": "支援型",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/218993_i.png",
+            "name": "ハツネ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/257074_i.png",
+            "name": "カスミ(サマー)",
+            "role": "支援型",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/285885_i.png",
+            "name": "レイ(プリンセス)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+        }
+        ,
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/249271_i.png",
+            "name": "ヒヨリ(プリンセス)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "-"
+        }
+        ,
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/222717_i.png",
+            "name": "ジュン(サマー)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/229351_i.png",
+            "name": "ヨリ(エンジェル)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/226289_i.png",
+            "name": "アカリ(エンジェル)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/230620_i.png",
+            "name": "ツムギ(ハロウィン)",
+            "role": "耐久支援型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/230621_i.png",
+            "name": "マツリ(ハロウィン)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/232859_i.png",
+            "name": "レイ(ハロウィン)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/235562_i.png",
+            "name": "モニカ(マジカル)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/239876_i.png",
+            "name": "トモ(マジカル)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/243555_i.png",
+            "name": "ユカリ(クリスマス)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/244471_i.png",
+            "name": "アキノ(クリスマス)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/247343_i.png",
+            "name": "サレン(クリスマス)",
+            "role": "耐久支援型",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/249276_i.png",
+            "name": "ムイミ(ニューイヤー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/252207_i.png",
+            "name": "ネネカ(ニューイヤー)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/253766_i.png",
+            "name": "コッコロ(儀装束)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/253769_i.png",
+            "name": "ユイ(儀装束)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/257139_i.png",
+            "name": "キャル(プリンセス)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "9.8",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/256183_i.png",
+            "name": "シェフィ",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "8.5"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/258796_i.png",
+            "name": "リマ(シンデレラ)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "-"
+          },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/263282_i.png",
+            "name": "マホ(シンデレラ)",
+            "role": "支援型",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "-"
+          },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/259553_i.png",
+            "name": "マコト(シンデレラ)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "-"
+          },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/266368_i.png",
+            "name": "チエル(聖学祭)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+         {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/269575_i.png",
+            "name": "クロエ(聖学祭)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/291122_i.png",
+            "name": "ユニ(聖学祭)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "-"
+          },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/274124_i.png",
+            "name": "カヤ(タイムトラベル)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "-"
+          },
+           {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/274117_i.png",
+            "name": "イノリ(タイムトラベル)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "-"
+          },
+         {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/280327_i.png",
+            "name": "アオイ(作業服)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.9",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/280329_i.png",
+            "name": "タマキ(作業服)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/284122_i.png",
+            "name": "ミフユ(作業服)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/286336_i.png",
+            "name": "エリコ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/287508_i.png",
+            "name": "シズル(サマー)",
+            "role": "耐久支援型",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "-"
+          },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/289300_i.png",
+            "name": "ノゾミ(サマー)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+          },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/291106_i.png",
+            "name": "チカ(サマー)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "-"
+          },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/289303_i.png",
+            "name": "ツムギ(サマー)",
+            "role": "支援型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+          },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/291108_i.png",
+            "name": "ハツネ&シオリ",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/293167_i.png",
+            "name": "ミツキ(オーエド)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/293897_i.png",
+            "name": "ユキ(オーエド)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/294623_i.png",
+            "name": "クレジッタ",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "-"
+        },
+           {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/296141_i.png",
+            "name": "カオリ(ハロウィン)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/298085_i.png",
+            "name": "スズナ(ハロウィン)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+          },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/296143_i.png",
+            "name": "ニノン(ハロウィン)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/300194_i.png",
+            "name": "カリン",
+            "role": "支援型",
+            "rating_below_6_stars": "9.1",
+            "rating_6_stars": "-"
+        },
+           {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/303511_i.png",
+            "name": "イオ(ノワール)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/305581_i.png",
+            "name": "クウカ(ノワール)",
+            "role": "耐久支援型",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/309849_i.png",
+            "name": "ミヤコ(クリスマス)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/309850_i.png",
+            "name": "マヒル(クリスマス)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/313159_i.png",
+            "name": "リノ(クリスマス)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/313789_i.png",
+            "name": "ミソギ&ミミ&キョウカ",
+            "role": "攻撃型",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/314547_i.png",
+            "name": "シェフィ(ニューイヤー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "-"
+          },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/314238_i.png",
+            "name": "ルカ(ニューイヤー)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+         {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/315594_i.png",
+            "name": "イリヤ(ニューイヤー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "9.1",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/317240_i.png",
+            "name": "ペコリーヌ(オーバーロード)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/318051_i.png",
+            "name": "ラビリスタ(オーバーロード)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/318817_i.png",
+            "name": "キャル(オーバーロード)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "-"
+        },
+           {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/318816_i.png",
+            "name": "ランファ",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "-"
+        },
+           {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/321847_i.png",
+            "name": "クルミ(ステージ)",
+            "role": "支援型",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/323897_i.png",
+            "name": "ミサキ(ステージ)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "-"
+        },
+           {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/326780_i.png",
+            "name": "アユミ(怪盗)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/327764_i.png",
+            "name": "イノリ(怪盗)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/330517_i.png",
+            "name": "アキノ&サレン",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/331284_i.png",
+            "name": "シノブ(パイレーツ)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/343954_i.png",
+            "name": "アンナ(パイレーツ)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/345611_i.png",
+            "name": "アオイ(キャンプ)",
+            "role": "攻撃型",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/345609_i.png",
+            "name": "ユカリ(キャンプ)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "-"
+        },
+         {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/346756_i.png",
+            "name": "ヴァンピィ",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "-"
+          },
+         {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/348356_i.png",
+            "name": "ヒヨリ(サマー)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/351936_i.png",
+            "name": "ユイ(サマー)",
+            "role": "支援型",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "-"
+        },
+         {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/348353_i.png",
+            "name": "レイ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/353981_i.png",
+            "name": "ミソギ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "-"
+          },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/353982_i.png",
+            "name": "ミミ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "-"
+        },
+          {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/358759_i.png",
+            "name": "キョウカ(サマー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "-"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/358762_i.png",
+            "name": "アメス",
+            "role": "支援型",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "-"
+        },
+       {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/361923_i.png",
+            "name": "マホ(エクスプローラー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "-"
+       },
+      {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/363350_i.png",
+            "name": "アヤネ(エクスプローラー)",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "-"
+       },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/364528_i.png",
+            "name": "ネア",
+            "role": "攻撃支援型",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "-"
+       },
+       {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/366031_i.png",
+        "name": "トモ(ハロウィン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/367533_i.png",
+        "name": "ナナカ(ハロウィン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/366032_i.png",
+        "name": "リン(ハロウィン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.0",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/370362_i.png",
+        "name": "クリスティーナ(ワイルド)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.0",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/373272_i.png",
+        "name": "マツリ(ワイルド)",
+        "role": "耐久攻撃型",
+        "rating_below_6_stars": "8.6",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/373062_i.png",
+        "name": "カイザーインサイト",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/377560_i.png",
+        "name": "ヨリ(クリスマス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/377559_i.png",
+        "name": "アカリ(クリスマス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.3",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/380816_i.png",
+        "name": "ジュン(クリスマス)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381218_i.png",
+        "name": "アン&グレア",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.3",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381658_i.png",
+        "name": "ミツキ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381846_i.png",
+        "name": "ミサト(ニューイヤー)",
+        "role": "支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/384461_i.png",
+        "name": "ホマレ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.5",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/387304_i.png",
+        "name": "ムイミ(リベレイター)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "8.9",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/385732_i.png",
+        "name": "カヤ(リベレイター)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "7.5",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/385733_i.png",
+        "name": "ノゾミ(リベレイター)",
+        "role": "支援型",
+        "rating_below_6_stars": "9.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/387309_i.png",
+        "name": "ミソラ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/391332_i.png",
+        "name": "モニカ(カフェ)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.0",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/390251_i.png",
+        "name": "タマキ(カフェ)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.6",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/392368_i.png",
+        "name": "シズル(ノワール)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.9",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/394782_i.png",
+        "name": "シオリ(レンジャー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.1",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/393891_i.png",
+        "name": "コッコロ(レンジャー)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/395413_i.png",
+        "name": "リリ(フォールン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.3",
+        "rating_6_stars": "-"
+    },
+   {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/422889_i.png",
+        "name": "クリア(フォールン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.0",
+        "rating_6_stars": "-"
+   },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/422890_i.png",
+        "name": "プレシア(フォールン)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/396803_i.png",
+        "name": "ジータ(ウォーロック)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.7",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/396805_i.png",
+        "name": "ビカラ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/396804_i.png",
+        "name": "カリン(アルケミスト)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.3",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/404132_i.png",
+        "name": "ユキ(儀装束)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.6",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/401348_i.png",
+        "name": "イリヤ(儀装束)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.8",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406863_i.png",
+        "name": "ネネカ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406511_i.png",
+        "name": "アキノ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/408845_i.png",
+        "name": "ユカリ(サマー)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.3",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406510_i.png",
+        "name": "クローチェ",
+        "role": "攻撃型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/412482_i.png",
+        "name": "シノブ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.8",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/410707_i.png",
+        "name": "ランファ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.5",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/410708_i.png",
+        "name": "クウカ(サマー)",
+        "role": "耐久攻撃型",
+        "rating_below_6_stars": "8.3",
+        "rating_6_stars": "-"
+    },
+   {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/412483_i.png",
+        "name": "ライラエル",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/415809_i.png",
+        "name": "キャル(編入生)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/415811_i.png",
+        "name": "スズナ(編入生)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.6",
+        "rating_6_stars": "-"
+      },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/419773_i.png",
+        "name": "サレン(サラサリア)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+     },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/419775_i.png",
+        "name": "ルカ(サラサリア)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "8.9",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/427339_i.png",
+        "name": "クレジッタ(クリスマス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.6",
+        "rating_6_stars": "-"
+      },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/427340_i.png",
+        "name": "ペコリーヌ(クリスマス)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "9.0",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431545_i.png",
+        "name": "シズル&リノ",
+        "role": "耐久攻撃型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431550_i.png",
+        "name": "ハツネ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431553_i.png",
+        "name": "イノリ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431551_i.png",
+        "name": "カスミ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.0",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435323_i.png",
+        "name": "ユイ(アストラル)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.3",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435324_i.png",
+        "name": "ヒヨリ(アストラル)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.3",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435325_i.png",
+        "name": "レイ(アストラル)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.9",
+        "rating_6_stars": "-"
+      },
+   {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/436517_i.png",
+        "name": "ユニ(ウィンター)",
+        "role": "支援型",
+        "rating_below_6_stars": "9.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/436518_i.png",
+        "name": "クロエ(ウィンター)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.0",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/436546_i.png",
+        "name": "エリス",
+        "role": "支援型",
+        "rating_below_6_stars": "10",
+        "rating_6_stars": "-"
+     },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/443355_i.png",
+        "name": "マコト(コマンダー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/445046_i.png",
+        "name": "エリコ(コマンダー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/447766_i.png",
+        "name": "キョウカ(スプリング)",
+        "role": "攻撃型",
+        "rating_below_6_stars": "9.1",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/447785_i.png",
+        "name": "スズメ(スプリング)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.7",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/447784_i.png",
+        "name": "アネモネ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.8",
+        "rating_6_stars": "-"
+      },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/451821_i.png",
+        "name": "クルル",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/451825_i.png",
+        "name": "マホ(ドリームパーク)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.5",
+        "rating_6_stars": "-"
+      },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/455792_i.png",
+        "name": "ミソラ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.7",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/454709_i.png",
+        "name": "ネア(サマー)",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "9.2",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/456873_i.png",
+        "name": "リリ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.7",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/455518_i.png",
+        "name": "ネフィネラ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "10",
+        "rating_6_stars": "-"
+    },
+       {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/458369_i.png",
+        "name": "アメス(サマー)",
+        "role": "支援型",
+        "rating_below_6_stars": "9.7",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459469_i.png",
+        "name": "ホマレ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4",
+        "rating_6_stars": "-"
+      },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459110_i.png",
+        "name": "シェフィ(プリンセス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.7",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459471_i.png",
+        "name": "ネビア",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "9.0",
+        "rating_6_stars": "-"
+      },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459478_i.png",
+        "name": "エミリア(サマー)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.3",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459479_i.png",
+        "name": "レム(サマー)",
+        "role": "耐久攻撃型",
+        "rating_below_6_stars": "9.0",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459480_i.png",
+        "name": "エキドナ(サマー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.7",
+        "rating_6_stars": "-"
+    },
+       {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/465395_i.png",
+        "name": "ノゾミ(アルケミスト)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.4",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/466710_i.png",
+        "name": "リンド",
+        "role": "支援型",
+        "rating_below_6_stars": "9.3",
+        "rating_6_stars": "-"
+    },
+     {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/469222_i.png",
+        "name": "ヴルム",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.3",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/470509_i.png",
+        "name": "フブキ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.3",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/471919_i.png",
+        "name": "ヤマト",
+        "role": "耐久攻撃型",
+        "rating_below_6_stars": "9.1",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/473280_i.png",
+        "name": "ワカナ",
+        "role": "耐久支援型",
+        "rating_below_6_stars": "9.6",
+        "rating_6_stars": "-"
+    },
+       {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/476005_i.png",
+        "name": "ライラエル(クリスマス)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.8",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/477893_i.png",
+        "name": "イオ(クリスマス)",
+        "role": "支援型",
+        "rating_below_6_stars": "8.6",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/478709_i.png",
+        "name": "チエル(ウィンター)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.8",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480419_i.png",
+        "name": "グレイス",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.6",
+        "rating_6_stars": "-"
+      },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480424_i.png",
+        "name": "サレン(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.6",
+        "rating_6_stars": "-"
+    },
+      {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480425_i.png",
+        "name": "モニカ(ニューイヤー)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "8.9",
+        "rating_6_stars": "-"
+      },
+       {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480830_i.png",
+        "name": "メドゥーサ",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.3",
+        "rating_6_stars": "-"
+       },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/483571_i.png",
+        "name": "ラビリスタ(アルファ)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.5",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/484450_i.png",
+        "name": "クリスティーナ(アルファ)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.6",
+        "rating_6_stars": "-"
+    },
+    {
+        "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/484439_i.png",
+        "name": "ネネカ(アルファ)",
+        "role": "攻撃支援型",
+        "rating_below_6_stars": "9.6",
+        "rating_6_stars": "-"
+    }
+    ]
+  }
