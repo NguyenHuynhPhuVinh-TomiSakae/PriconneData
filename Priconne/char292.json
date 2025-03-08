@@ -1,0 +1,120 @@
+{
+    "character": {
+      "id": 292,
+      "name": "Fio",
+      "name_jp": "フィオ",
+      "image_character_banner": "https://img.gamewith.jp/article_tools/pricone-re/gacha/484456_top.jpg",
+      "catchphrase": "Tôi là tinh linh chỉ của riêng bạn thôi ♪",
+      "element": "風属性",
+      "quick_summary": {
+        "strengths": [
+          "Buff tốc độ hành động và hỗ trợ TP giới hạn cho nhân vật hệ Phong",
+          "Khả năng hỗ trợ cả tấn công lẫn phòng thủ"
+        ],
+        "weaknesses": [
+          "Cần thiết phải xây dựng đội hình tập trung vào hệ Phong"
+        ]
+      },
+      "content_ratings": {
+        "quest": "S",
+        "high_difficulty_quest": "SS+",
+        "arena": "S",
+        "boss_battle": "SS+",
+        "elemental_evaluation": "SS+"
+      },
+      "max_stats": {
+        "hp": 69139,
+        "physical_attack": 0,
+        "magic_attack": 33253,
+        "physical_defense": 1984,
+        "magic_defense": 2182
+      },
+      "skills": {
+        "union_burst": {
+          "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
+          "name": "Fiore Felicità",
+          "description": "Tăng mạnh vật phòng và kháng phép của toàn bộ đồng minh, đồng thời tạo trạng thái hồi phục HP liên tục và triển khai barrier vật lý/phép vô hiệu.",
+          "effects": [
+            "Tăng 402 vật phòng cho toàn bộ đồng minh",
+            "Tăng 402 kháng phép cho toàn bộ đồng minh (khoảng 18 giây)",
+            "Hồi 3196 HP mỗi giây (10 lần)",
+            "Triển khai barrier vô hiệu hóa sát thương vật lý/phép 15075 sát thương (hiệu ứng vĩnh viễn)"
+          ]
+        },
+        "skill_1": {
+          "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
+          "name": "Luce Produrre",
+          "description": "Tất cả đồng minh đang có barrier sẽ nhận thêm hiệu ứng giảm sát thương vật lý và giảm sát thương phép. Thêm vào đó, hồi phục HP vừa cho tất cả đồng minh hệ Phong và tăng mạnh tốc độ hành động.",
+          "effects": [
+            "Giảm 15% sát thương vật lý mà đồng minh đang có barrier phải chịu",
+            "Giảm 15% sát thương phép mà đồng minh đang có barrier phải chịu",
+            "Hồi 17464 HP cho đồng minh hệ Phong",
+            "Tăng tốc độ hành động của đồng minh hệ Phong (khoảng 12 giây)"
+          ]
+        },
+        "skill_2": {
+          "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
+          "name": "Fata Palpito",
+          "description": "Tăng mạnh vật công và ma công của toàn bộ đồng minh, tăng nhẹ sát thương chí mạng vật lý và sát thương chí mạng phép. Hiệu ứng này tăng lên đối với đồng minh đang có barrier. Thêm vào đó, hồi phục TP vừa cho tất cả đồng minh hệ Phong.",
+          "effects": [
+            "Tăng 10720 vật công và ma công cho đồng minh đang có barrier",
+            "Tăng 16% sát thương chí mạng vật lý và sát thương chí mạng phép cho đồng minh đang có barrier",
+            "Tăng 5360 vật công và ma công cho đồng minh không có barrier",
+            "Tăng 8% sát thương chí mạng vật lý và sát thương chí mạng phép cho đồng minh không có barrier (khoảng 12 giây)",
+            "Hồi 200 TP cho đồng minh hệ Phong"
+          ]
+        },
+        "ex_skill": {
+          "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_18.png",
+          "name": "Littlenopiuma",
+          "description": "Tăng vừa ma công của bản thân khi bắt đầu trận chiến.",
+          "effects": [
+            "※Hiện tại đang trong quá trình chuẩn bị. Thông tin sẽ được thêm sau khi được xác nhận."
+          ]
+        }
+      },
+      "strengths_and_usage": {
+        "points": [
+          {
+            "main_point": "Buff tốc độ hành động + hồi phục TP cho nhân vật hệ Phong",
+            "description": "Có thể hỗ trợ buff tốc độ hành động và hồi phục TP cho nhân vật hệ Phong bằng cả skill 1 & 2. Cả hai đều mạnh và là khả năng hỗ trợ chính của Fio.",
+            "sub_points": null
+          },
+          {
+            "main_point": "Khả năng hỗ trợ độ bền cao",
+            "description": "Sở hữu hỗ trợ toàn đội như hồi phục/barrier/tăng phòng thủ bằng UB và skill 1, Fio là yếu tố quan trọng về độ bền. Độ bền của các nhân vật Attacker sẽ không còn là vấn đề, và độ tự do trong xây dựng đội hình hệ Phong sẽ tăng lên đáng kể so với trước đây.",
+            "sub_points": null
+          }
+        ]
+      },
+      "weaknesses_and_limitations": {
+        "points": [
+          {
+            "main_point": "Ảnh hưởng lớn từ việc 'thuần' thuộc tính",
+            "description": "Các skill liên quan đến hệ Phong đều kết nối với việc cường hóa hành động của nhân vật, và hiệu suất hỗ trợ hỏa lực không thể phát huy tối đa nếu không xây dựng đội hình hệ Phong. Đặc biệt, nếu muốn xây dựng đội hình phép thì độ khó sẽ là một vấn đề đáng lo ngại.",
+            "sub_points": null
+          }
+        ],
+        "recommended_pairings": [
+          "シオリ",
+          "キョウカ(スプリング)",
+          "ワカナ",
+          "アネモネ"
+        ]
+      },
+      "overall_evaluation": {
+        "points": [
+          {
+            "main_point": "Nhân vật buff tốc độ hành động hệ Phong mạnh nhất",
+            "description": "Trước khi Fio được ra mắt, nhân vật buff tốc độ hành động hệ Phong có hiệu suất hơi khiêm tốn, và đôi khi người ta sử dụng các nhân vật thuộc tính khác như Nephynera. Vì Fio có hiệu ứng buff tốc độ hành động cao, nên nếu xây dựng đội hình hệ Phong thì đây là nhân vật chắc chắn nên có.",
+            "sub_points": null
+          },
+          {
+            "main_point": "Ví dụ về đội hình Arena",
+            "description": "Đội hình để tận dụng khả năng hỗ trợ của Fio, đồng thời nhắm đến những trận chiến dài hơi. Hạ gục Nevia bằng Saren (Mùa hè) + Kyoka (Mùa xuân), đồng thời phá vỡ phòng thủ của đối phương bằng nhân vật Jammer.",
+            "sub_points": null
+          }
+        ]
+      }
+    }
+  }
