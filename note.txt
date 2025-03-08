@@ -1,0 +1,95 @@
+{
+  characters[] {
+    avatar
+    name
+    role
+    rating_below_6_stars
+    rating_6_stars
+  }
+}
+
+
+{
+  character {
+    image_character_banner
+    catchphrase
+    element
+    quick_summary {
+      strengths[]
+      weaknesses[]
+    }
+    content_ratings {
+      quest
+      high_difficulty_quest
+      arena
+      boss_battle
+      elemental_evaluation 
+    }
+     max_stats {
+      hp
+      physical_attack
+      magic_attack
+      physical_defense
+      magic_defense
+     }
+     skills {
+          union_burst {
+            icon
+            name
+            description
+            effects[]
+          }
+           skill_1{
+            icon
+             name
+             description
+             effects[]
+           }
+           skill_2{
+            icon
+             name
+             description
+             effects[]
+           }
+           ex_skill{
+            icon
+             name
+             description
+             effects[]
+           }
+
+      }
+      strengths_and_usage {
+      points[]{
+        main_point
+        description
+        sub_points
+      }
+    }
+    weaknesses_and_limitations {
+        points[]{
+        main_point
+        description
+        sub_points
+      }
+      recommended_pairings[]
+    }
+    overall_evaluation {
+      points[]{
+        main_point
+        description
+        sub_points
+      }
+    }
+  }
+}
+
+
+"攻撃型": "DPS",
+"攻撃支援型": "DPS Hỗ trợ",    
+"支援型": "Hỗ trợ",            
+"耐久型": "Tank",             
+"耐久支援型": "Tank Hỗ trợ",    
+"耐久攻撃型": "Tank DPS" 
+
+Dịch các thông tin sau sang tiếng việt dựa trên ngữ cảnh là game gacha anime princess connect re dive. Lưu ý trường name, name_jp, recommended_pairings, element không cần dịch, trường content_ratings thay tiếng nhật bằng ký hiệu phù hợp như + để thành các chỉ số như D,C,B,A, SS, SS+,.... Đảm bào dịch cả trường name của skill và effect của skill cho phù hợp! Nếu có tên tiếng nhật trong mô tả thì dùng chính xác tên trong trường name. Khi dịch thì đồng bộ sài tiếng việt hết trừ khi có các thuật ngữ tiếng anh của game để cho phù hợp!

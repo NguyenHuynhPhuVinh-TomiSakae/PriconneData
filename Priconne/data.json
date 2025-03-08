@@ -1,0 +1,2641 @@
+{
+    "characters": [
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/487832_i.png",
+            "name": "Ranpha (Lễ phục)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4(tạm thời) điểm",
+            "rating_6_stars": " điểm",
+            "id": 293,
+            "name_jp": "ランファ(儀装束)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/484456_i.png",
+            "name": "Fio",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.7(tạm thời) điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 292,
+            "name_jp": "フィオ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92870_i.png",
+            "name": "Nozomi",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.4 điểm",
+            "id": 291,
+            "name_jp": "ノゾミ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92871_i.png",
+            "name": "Akino",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.3 điểm",
+            "id": 290,
+            "name_jp": "アキノ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92872_i.png",
+            "name": "Makoto",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "8.8 điểm",
+            "id": 289,
+            "name_jp": "マコト"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92873_i.png",
+            "name": "Shizuru",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.0 điểm",
+            "id": 288,
+            "name_jp": "シズル"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92875_i.png",
+            "name": "Gita",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.0 điểm",
+            "id": 287,
+            "name_jp": "ジータ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92881_i.png",
+            "name": "Kuuka",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "8.8 điểm",
+            "id": 286,
+            "name_jp": "クウカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92882_i.png",
+            "name": "Miyako",
+            "role": "Tank",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "8.8 điểm",
+            "id": 285,
+            "name_jp": "ミヤコ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92883_i.png",
+            "name": "Kaori",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "7.5 điểm",
+            "id": 284,
+            "name_jp": "カオリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92884_i.png",
+            "name": "Eriko",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.4 điểm",
+            "id": 283,
+            "name_jp": "エリコ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92885_i.png",
+            "name": "Tamaki",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.5 điểm",
+            "id": 282,
+            "name_jp": "タマキ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92887_i.png",
+            "name": "Pecorine",
+            "role": "Tank",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 281,
+            "name_jp": "ペコリーヌ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92888_i.png",
+            "name": "Lima",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.0 điểm",
+            "rating_6_stars": "8.0 điểm",
+            "id": 280,
+            "name_jp": "リマ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92889_i.png",
+            "name": "Kurumi",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.0 điểm",
+            "id": 279,
+            "name_jp": "クルミ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92890_i.png",
+            "name": "Rei",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "7.5 điểm",
+            "id": 278,
+            "name_jp": "レイ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92891_i.png",
+            "name": "Hiyori",
+            "role": "DPS",
+            "rating_below_6_stars": "6.0 điểm",
+            "rating_6_stars": "8.0 điểm",
+            "id": 277,
+            "name_jp": "ヒヨリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92892_i.png",
+            "name": "Misogi",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "6.5 điểm",
+            "id": 276,
+            "name_jp": "ミソギ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92894_i.png",
+            "name": "Anna",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.0 điểm",
+            "id": 275,
+            "name_jp": "アンナ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92893_i.png",
+            "name": "Saren",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.0 điểm",
+            "id": 274,
+            "name_jp": "サレン"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92895_i.png",
+            "name": "Ninon",
+            "role": "DPS",
+            "rating_below_6_stars": "6.0 điểm",
+            "rating_6_stars": "8.5 điểm",
+            "id": 273,
+            "name_jp": "ニノン"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92896_i.png",
+            "name": "Monica",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "9.1 điểm",
+            "id": 272,
+            "name_jp": "モニカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92897_i.png",
+            "name": "Akari",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.0 điểm",
+            "id": 271,
+            "name_jp": "アカリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92898_i.png",
+            "name": "Mimi",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "7.5 điểm",
+            "id": 270,
+            "name_jp": "ミミ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92899_i.png",
+            "name": "Shinobu",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.8 điểm",
+            "id": 269,
+            "name_jp": "シノブ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92900_i.png",
+            "name": "Mahiru",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 268,
+            "name_jp": "マヒル"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92901_i.png",
+            "name": "Mifuyu",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.1 điểm",
+            "id": 267,
+            "name_jp": "ミフユ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92902_i.png",
+            "name": "Mitsuki",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.5 điểm",
+            "id": 266,
+            "name_jp": "ミツキ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92903_i.png",
+            "name": "Kokkoro",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "9.1 điểm",
+            "id": 265,
+            "name_jp": "コッコロ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92904_i.png",
+            "name": "Yukari",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.3 điểm",
+            "rating_6_stars": "9.2 điểm",
+            "id": 264,
+            "name_jp": "ユカリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92905_i.png",
+            "name": "Yori",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "7.5 điểm",
+            "id": 263,
+            "name_jp": "ヨリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92906_i.png",
+            "name": "Rino",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "9.2 điểm",
+            "id": 262,
+            "name_jp": "リノ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92907_i.png",
+            "name": "Maho",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 261,
+            "name_jp": "マホ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92908_i.png",
+            "name": "Hatsune",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.0 điểm",
+            "id": 260,
+            "name_jp": "ハツネ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92920_i.png",
+            "name": "Io",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.4 điểm",
+            "id": 259,
+            "name_jp": "イオ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92909_i.png",
+            "name": "Shiori",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "9.5 điểm",
+            "id": 258,
+            "name_jp": "シオリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92910_i.png",
+            "name": "Yuki",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.0 điểm",
+            "rating_6_stars": "8.8 điểm",
+            "id": 257,
+            "name_jp": "ユキ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92911_i.png",
+            "name": "Suzuna",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.7 điểm",
+            "id": 256,
+            "name_jp": "スズナ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92912_i.png",
+            "name": "Chika",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "7.5 điểm",
+            "id": 255,
+            "name_jp": "チカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92913_i.png",
+            "name": "Kyaru",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "9.0 điểm",
+            "id": 254,
+            "name_jp": "キャル"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92914_i.png",
+            "name": "Yui",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.4 điểm",
+            "id": 253,
+            "name_jp": "ユイ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92915_i.png",
+            "name": "Misaki",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "9.0 điểm",
+            "id": 252,
+            "name_jp": "ミサキ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92916_i.png",
+            "name": "Suzume",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.1 điểm",
+            "id": 251,
+            "name_jp": "スズメ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/92917_i.png",
+            "name": "Aoi",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.2 điểm",
+            "id": 250,
+            "name_jp": "アオイ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/93551_i.png",
+            "name": "Arisa",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.1 điểm",
+            "id": 249,
+            "name_jp": "アリサ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/93640_i.png",
+            "name": "Jun",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.0 điểm",
+            "id": 248,
+            "name_jp": "ジュン"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94455_i.png",
+            "name": "Labyrista",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 247,
+            "name_jp": "ラビリスタ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94456_i.png",
+            "name": "Tsumugi",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "9.0 điểm",
+            "id": 246,
+            "name_jp": "ツムギ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94457_i.png",
+            "name": "Kyoka",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.5 điểm",
+            "id": 245,
+            "name_jp": "キョウカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94458_i.png",
+            "name": "Misato",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "7.5 điểm",
+            "id": 244,
+            "name_jp": "ミサト"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94459_i.png",
+            "name": "Ilya",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 243,
+            "name_jp": "イリヤ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94460_i.png",
+            "name": "Matsuri",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.9 điểm",
+            "id": 242,
+            "name_jp": "マツリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94461_i.png",
+            "name": "Tomo",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.2 điểm",
+            "id": 241,
+            "name_jp": "トモ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94463_i.png",
+            "name": "Christina",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "9.7 điểm",
+            "id": 240,
+            "name_jp": "クリスティーナ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94464_i.png",
+            "name": "Ayane",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.0 điểm",
+            "id": 239,
+            "name_jp": "アヤネ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94465_i.png",
+            "name": "Kasumi",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.3 điểm",
+            "rating_6_stars": "9.1 điểm",
+            "id": 238,
+            "name_jp": "カスミ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94466_i.png",
+            "name": "Rin",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.4 điểm",
+            "id": 237,
+            "name_jp": "リン"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94467_i.png",
+            "name": "Nanaka",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.4 điểm",
+            "id": 236,
+            "name_jp": "ナナカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94468_i.png",
+            "name": "Ruka",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.0 điểm",
+            "rating_6_stars": "9.6 điểm",
+            "id": 235,
+            "name_jp": "ルカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/94469_i.png",
+            "name": "Ayumi",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.9 điểm",
+            "id": 234,
+            "name_jp": "アユミ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/109993_i.png",
+            "name": "Pecorine (Mùa hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.4 điểm",
+            "id": 233,
+            "name_jp": "ペコリーヌ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/109994_i.png",
+            "name": "Kokkoro (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 232,
+            "name_jp": "コッコロ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/112868_i.png",
+            "name": "Suzume (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.3 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 231,
+            "name_jp": "スズメ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/114502_i.png",
+            "name": "Tamaki (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 230,
+            "name_jp": "タマキ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/114504_i.png",
+            "name": "Mifuyu (Mùa hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 229,
+            "name_jp": "ミフユ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/114528_i.png",
+            "name": "Kyaru (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 228,
+            "name_jp": "キャル(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/120761_i.png",
+            "name": "Shinobu (Halloween)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.4 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 227,
+            "name_jp": "シノブ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/120762_i.png",
+            "name": "Miyako (Halloween)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.4 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 226,
+            "name_jp": "ミヤコ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/123926_i.png",
+            "name": "Misaki (Halloween)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 225,
+            "name_jp": "ミサキ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/132396_i.png",
+            "name": "Chika (Giáng sinh)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.2 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 224,
+            "name_jp": "チカ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/134531_i.png",
+            "name": "Ayane (Giáng sinh)",
+            "role": "DPS",
+            "rating_below_6_stars": "9.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 223,
+            "name_jp": "アヤネ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/132419_i.png",
+            "name": "Kurumi (Giáng sinh)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 222,
+            "name_jp": "クルミ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/164532_i.png",
+            "name": "Neneka",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 221,
+            "name_jp": "ネネカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/136547_i.png",
+            "name": "Yui (Năm mới)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.9 điểm",
+            "id": 220,
+            "name_jp": "ユイ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/138812_i.png",
+            "name": "Hiyori (Năm mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 219,
+            "name_jp": "ヒヨリ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/136267_i.png",
+            "name": "Rei (Năm mới)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.4 điểm",
+            "id": 218,
+            "name_jp": "レイ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/141208_i.png",
+            "name": "Shizuru (Valentine)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.6 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 217,
+            "name_jp": "シズル(バレンタイン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/141210_i.png",
+            "name": "Eriko (Valentine)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 216,
+            "name_jp": "エリコ(バレンタイン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/142756_i.png",
+            "name": "Muimi",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.4 điểm",
+            "id": 215,
+            "name_jp": "ムイミ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/146934_i.png",
+            "name": "An",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 214,
+            "name_jp": "アン"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/147234_i.png",
+            "name": "Grea",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 213,
+            "name_jp": "グレア"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/146808_i.png",
+            "name": "Ru",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 212,
+            "name_jp": "ルゥ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/149184_i.png",
+            "name": "Kuuka (Oedo)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.6 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 211,
+            "name_jp": "クウカ(オーエド)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/150884_i.png",
+            "name": "Ninon (Oedo)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 210,
+            "name_jp": "ニノン(オーエド)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/154086_i.png",
+            "name": "Emilia",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "8.7 điểm",
+            "id": 209,
+            "name_jp": "エミリア"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/152681_i.png",
+            "name": "Ram",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "8.7 điểm",
+            "id": 208,
+            "name_jp": "ラム"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/152682_i.png",
+            "name": "Rem",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0 điểm",
+            "rating_6_stars": "8.6 điểm",
+            "id": 207,
+            "name_jp": "レム"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/156383_i.png",
+            "name": "Suzuna (Mùa hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.7 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 206,
+            "name_jp": "スズナ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/156384_i.png",
+            "name": "Io (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.2 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 205,
+            "name_jp": "イオ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/158866_i.png",
+            "name": "Saren (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.6 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 204,
+            "name_jp": "サレン(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/162001_i.png",
+            "name": "Maho (Mùa hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "9.3 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 203,
+            "name_jp": "マホ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/160388_i.png",
+            "name": "Makoto (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 202,
+            "name_jp": "マコト(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/160387_i.png",
+            "name": "Kaori (Mùa hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.8 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 201,
+            "name_jp": "カオリ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/164701_i.png",
+            "name": "Aoi (Du học sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 200,
+            "name_jp": "アオイ(編入生)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170425_i.png",
+            "name": "Chiel",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 199,
+            "name_jp": "チエル"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/166637_i.png",
+            "name": "Chloe",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 198,
+            "name_jp": "クロエ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170426_i.png",
+            "name": "Yuni",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.1 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 197,
+            "name_jp": "ユニ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170554_i.png",
+            "name": "Kyoka (Halloween)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 196,
+            "name_jp": "キョウカ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/172697_i.png",
+            "name": "Mimi (Halloween)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.6 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 195,
+            "name_jp": "ミミ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/170555_i.png",
+            "name": "Misogi (Halloween)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.3 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 194,
+            "name_jp": "ミソギ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/174166_i.png",
+            "name": "Luna",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 193,
+            "name_jp": "ルナ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/175800_i.png",
+            "name": "Kaya",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "9.2 điểm",
+            "id": 192,
+            "name_jp": "カヤ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/177169_i.png",
+            "name": "Inori",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "9.2 điểm",
+            "id": 191,
+            "name_jp": "イノリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/177168_i.png",
+            "name": "Homare",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 190,
+            "name_jp": "ホマレ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/178679_i.png",
+            "name": "Nozomi (Giáng sinh)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 189,
+            "name_jp": "ノゾミ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/178680_i.png",
+            "name": "Christina (Giáng sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 188,
+            "name_jp": "クリスティーナ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/180708_i.png",
+            "name": "Ilya (Giáng sinh)",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 187,
+            "name_jp": "イリヤ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/249522_i.png",
+            "name": "Pecorine (Năm mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 186,
+            "name_jp": "ペコリーヌ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/182031_i.png",
+            "name": "Karyl (Năm mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.1 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 185,
+            "name_jp": "キャル(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/183076_i.png",
+            "name": "Kokkoro (Năm mới)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.3 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 184,
+            "name_jp": "コッコロ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/182033_i.png",
+            "name": "Suzume (Năm mới)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 183,
+            "name_jp": "スズメ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/185200_i.png",
+            "name": "Kasumi (Ma thuật)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.4 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 182,
+            "name_jp": "カスミ(マジカル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/185203_i.png",
+            "name": "Shiori (Ma thuật)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 181,
+            "name_jp": "シオリ(マジカル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/186770_i.png",
+            "name": "Pecorine (Princess)",
+            "role": "Tank DPS",
+            "rating_below_6_stars": "8.4 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 180,
+            "name_jp": "ペコリーヌ(プリンセス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/188928_i.png",
+            "name": "Uzuki (Deremas)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 179,
+            "name_jp": "ウヅキ(デレマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/190943_i.png",
+            "name": "Rin (Deremas)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.2 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 178,
+            "name_jp": "リン(デレマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/188929_i.png",
+            "name": "Mio (Deremas)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5 điểm",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 177,
+            "name_jp": "ミオ(デレマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/200838_i.png",
+            "name": "Rin (Ranger)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 176,
+            "name_jp": "リン(レンジャー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/203217_i.png",
+            "name": "Mahiru (Ranger)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 175,
+            "name_jp": "マヒル(レンジャー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/207214_i.png",
+            "name": "Rino (Wonder)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 174,
+            "name_jp": "リノ(ワンダー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/206761_i.png",
+            "name": "Ayumi (Wonder)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 173,
+            "name_jp": "アユミ(ワンダー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/206754_i.png",
+            "name": "Kokkoro (Princess)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 172,
+            "name_jp": "コッコロ(プリンセス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/213088_i.png",
+            "name": "Luca (Mùa hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 171,
+            "name_jp": "ルカ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/212646_i.png",
+            "name": "Anna (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 170,
+            "name_jp": "アンナ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/214825_i.png",
+            "name": "Nanaka (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 169,
+            "name_jp": "ナナカ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/212645_i.png",
+            "name": "Yui (Princess)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 168,
+            "name_jp": "ユイ(プリンセス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/218997_i.png",
+            "name": "Misato (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 167,
+            "name_jp": "ミサト(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/218993_i.png",
+            "name": "Hatsune (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 166,
+            "name_jp": "ハツネ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/257074_i.png",
+            "name": "Kasumi (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 165,
+            "name_jp": "カスミ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/285885_i.png",
+            "name": "Rei (Princess)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 164,
+            "name_jp": "レイ(プリンセス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/249271_i.png",
+            "name": "Hiyori (Princess)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 163,
+            "name_jp": "ヒヨリ(プリンセス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/222717_i.png",
+            "name": "Jun (Mùa hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 162,
+            "name_jp": "ジュン(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/229351_i.png",
+            "name": "Yori (Angel)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 161,
+            "name_jp": "ヨリ(エンジェル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/226289_i.png",
+            "name": "Akari (Angel)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 160,
+            "name_jp": "アカリ(エンジェル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/230620_i.png",
+            "name": "Tsumugi (Halloween)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 159,
+            "name_jp": "ツムギ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/230621_i.png",
+            "name": "Matsuri (Halloween)",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 158,
+            "name_jp": "マツリ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/232859_i.png",
+            "name": "Rei (Halloween)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 157,
+            "name_jp": "レイ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/235562_i.png",
+            "name": "Monica (Ma thuật)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 156,
+            "name_jp": "モニカ(マジカル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/239876_i.png",
+            "name": "Tomo (Ma thuật)",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 155,
+            "name_jp": "トモ(マジカル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/243555_i.png",
+            "name": "Yukari (Giáng sinh)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 154,
+            "name_jp": "ユカリ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/244471_i.png",
+            "name": "Akino (Giáng sinh)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 153,
+            "name_jp": "アキノ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/247343_i.png",
+            "name": "Saren (Giáng sinh)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 152,
+            "name_jp": "サレン(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/249276_i.png",
+            "name": "Muimi (Năm mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 151,
+            "name_jp": "ムイミ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/252207_i.png",
+            "name": "Neneka (Năm mới)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 150,
+            "name_jp": "ネネカ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/253766_i.png",
+            "name": "Kokkoro (Lễ phục)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 149,
+            "name_jp": "コッコロ(儀装束)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/253769_i.png",
+            "name": "Yui (Lễ phục)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 148,
+            "name_jp": "ユイ(儀装束)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/257139_i.png",
+            "name": "Karyl (Princess)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 147,
+            "name_jp": "キャル(プリンセス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/256183_i.png",
+            "name": "Sheffy",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "8.5",
+            "id": 146,
+            "name_jp": "シェフィ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/258796_i.png",
+            "name": "Lima (Cinderella)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 145,
+            "name_jp": "リマ(シンデレラ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/263282_i.png",
+            "name": "Maho (Cinderella)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 144,
+            "name_jp": "マホ(シンデレラ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/259553_i.png",
+            "name": "Makoto (Cinderella)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 143,
+            "name_jp": "マコト(シンデレラ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/266368_i.png",
+            "name": "Chiel (Học viện)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 142,
+            "name_jp": "チエル(聖学祭)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/269575_i.png",
+            "name": "Chloe (Học viện)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 141,
+            "name_jp": "クロエ(聖学祭)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/291122_i.png",
+            "name": "Yuni (Học viện)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 140,
+            "name_jp": "ユニ(聖学祭)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/274124_i.png",
+            "name": "Kaya (Du hành thời gian)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 139,
+            "name_jp": "カヤ(タイムトラベル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/274117_i.png",
+            "name": "Inori (Du hành thời gian)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 138,
+            "name_jp": "イノリ(タイムトラベル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/280327_i.png",
+            "name": "Aoi (Đồng phục)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.9",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 137,
+            "name_jp": "アオイ(作業服)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/280329_i.png",
+            "name": "Tamaki (Đồng phục)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 136,
+            "name_jp": "タマキ(作業服)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/284122_i.png",
+            "name": "Mifuyu (Đồng phục)",
+            "role": "DPS",
+            "rating_below_6_stars": "6.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 135,
+            "name_jp": "ミフユ(作業服)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/286336_i.png",
+            "name": "Eriko (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 134,
+            "name_jp": "エリコ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/287508_i.png",
+            "name": "Shizuru (Mùa hè)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 133,
+            "name_jp": "シズル(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/289300_i.png",
+            "name": "Nozomi (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 132,
+            "name_jp": "ノゾミ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/291106_i.png",
+            "name": "Chika (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 131,
+            "name_jp": "チカ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/289303_i.png",
+            "name": "Tsumugi (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 130,
+            "name_jp": "ツムギ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/291108_i.png",
+            "name": "Hatsune & Shiori",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 129,
+            "name_jp": "ハツネ&シオリ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/293167_i.png",
+            "name": "Mitsuki (Oedo)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 128,
+            "name_jp": "ミツキ(オーエド)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/293897_i.png",
+            "name": "Yuki (Oedo)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 127,
+            "name_jp": "ユキ(オーエド)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/294623_i.png",
+            "name": "Crezitta",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 126,
+            "name_jp": "クレジッタ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/296141_i.png",
+            "name": "Kaori (Halloween)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 125,
+            "name_jp": "カオリ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/298085_i.png",
+            "name": "Suzuna (Halloween)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 124,
+            "name_jp": "スズナ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/296143_i.png",
+            "name": "Ninon (Halloween)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 123,
+            "name_jp": "ニノン(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/300194_i.png",
+            "name": "Karin",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 122,
+            "name_jp": "カリン"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/303511_i.png",
+            "name": "Io (Noir)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 121,
+            "name_jp": "イオ(ノワール)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/305581_i.png",
+            "name": "Kuuka (Noir)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 120,
+            "name_jp": "クウカ(ノワール)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/309849_i.png",
+            "name": "Miyako (Giáng Sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 119,
+            "name_jp": "ミヤコ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/309850_i.png",
+            "name": "Mahiru (Giáng Sinh)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 118,
+            "name_jp": "マヒル(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/313159_i.png",
+            "name": "Rino (Giáng Sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 117,
+            "name_jp": "リノ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/313789_i.png",
+            "name": "Misogi&Mimi&Kyouka",
+            "role": "DPS",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 116,
+            "name_jp": "ミソギ&ミミ&キョウカ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/314547_i.png",
+            "name": "Shefi (Năm Mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 115,
+            "name_jp": "シェフィ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/314238_i.png",
+            "name": "Ruka (Năm Mới)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 114,
+            "name_jp": "ルカ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/315594_i.png",
+            "name": "Ilya (Năm Mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 113,
+            "name_jp": "イリヤ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/317240_i.png",
+            "name": "Pecorine (Overlord)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 112,
+            "name_jp": "ペコリーヌ(オーバーロード)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/318051_i.png",
+            "name": "Labyrista (Overlord)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 111,
+            "name_jp": "ラビリスタ(オーバーロード)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/318817_i.png",
+            "name": "Kyaru (Overlord)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 110,
+            "name_jp": "キャル(オーバーロード)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/318816_i.png",
+            "name": "Lanpha",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 109,
+            "name_jp": "ランファ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/321847_i.png",
+            "name": "Kurumi (Sân khấu)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 108,
+            "name_jp": "クルミ(ステージ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/323897_i.png",
+            "name": "Misaki (Sân khấu)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 107,
+            "name_jp": "ミサキ(ステージ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/326780_i.png",
+            "name": "Ayumi (Kaitou)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 106,
+            "name_jp": "アユミ(怪盗)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/327764_i.png",
+            "name": "Inori (Kaitou)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 105,
+            "name_jp": "イノリ(怪盗)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/330517_i.png",
+            "name": "Akino&Saren",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 104,
+            "name_jp": "アキノ&サレン"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/331284_i.png",
+            "name": "Shinobu (Cướp biển)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 103,
+            "name_jp": "シノブ(パイレーツ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/343954_i.png",
+            "name": "Anna (Cướp biển)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 102,
+            "name_jp": "アンナ(パイレーツ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/345611_i.png",
+            "name": "Aoi (Trại hè)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 101,
+            "name_jp": "アオイ(キャンプ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/345609_i.png",
+            "name": "Yukari (Trại hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 100,
+            "name_jp": "ユカリ(キャンプ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/346756_i.png",
+            "name": "Vampi",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 99,
+            "name_jp": "ヴァンピィ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/348356_i.png",
+            "name": "Hiyori (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 98,
+            "name_jp": "ヒヨリ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/351936_i.png",
+            "name": "Yui (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 97,
+            "name_jp": "ユイ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/348353_i.png",
+            "name": "Rei (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 96,
+            "name_jp": "レイ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/353981_i.png",
+            "name": "Misogi (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 95,
+            "name_jp": "ミソギ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/353982_i.png",
+            "name": "Mimi (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 94,
+            "name_jp": "ミミ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/358759_i.png",
+            "name": "Kyouka (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 93,
+            "name_jp": "キョウカ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/358762_i.png",
+            "name": "Ames",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 92,
+            "name_jp": "アメス"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/361923_i.png",
+            "name": "Maho (Explorer)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 91,
+            "name_jp": "マホ(エクスプローラー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/363350_i.png",
+            "name": "Ayane (Explorer)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 90,
+            "name_jp": "アヤネ(エクスプローラー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/364528_i.png",
+            "name": "Nea",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 89,
+            "name_jp": "ネア"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/366031_i.png",
+            "name": "Tomo (Halloween)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 88,
+            "name_jp": "トモ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/367533_i.png",
+            "name": "Nanaka (Halloween)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 87,
+            "name_jp": "ナナカ(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/366032_i.png",
+            "name": "Rin (Halloween)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 86,
+            "name_jp": "リン(ハロウィン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/370362_i.png",
+            "name": "Christina (Wild)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 85,
+            "name_jp": "クリスティーナ(ワイルド)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/373272_i.png",
+            "name": "Matsuri (Wild)",
+            "role": "Tank DPS",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 84,
+            "name_jp": "マツリ(ワイルド)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/373062_i.png",
+            "name": "Kaiser Insight",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 83,
+            "name_jp": "カイザーインサイト"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/377560_i.png",
+            "name": "Yori (Giáng Sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 82,
+            "name_jp": "ヨリ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/377559_i.png",
+            "name": "Akari (Giáng Sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 81,
+            "name_jp": "アカリ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/380816_i.png",
+            "name": "Jun (Giáng Sinh)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 80,
+            "name_jp": "ジュン(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381218_i.png",
+            "name": "Ann & Grea",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 79,
+            "name_jp": "アン&グレア"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381658_i.png",
+            "name": "Mitsuki (Năm Mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 78,
+            "name_jp": "ミツキ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381846_i.png",
+            "name": "Misato (Năm Mới)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 77,
+            "name_jp": "ミサト(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/384461_i.png",
+            "name": "Homare (Năm Mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 76,
+            "name_jp": "ホマレ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/387304_i.png",
+            "name": "Muimi (Liberator)",
+            "role": "DPS",
+            "rating_below_6_stars": "8.9",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 75,
+            "name_jp": "ムイミ(リベレイター)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/385732_i.png",
+            "name": "Kaya (Liberator)",
+            "role": "DPS",
+            "rating_below_6_stars": "7.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 74,
+            "name_jp": "カヤ(リベレイター)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/385733_i.png",
+            "name": "Nozomi (Liberator)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 73,
+            "name_jp": "ノゾミ(リベレイター)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/387309_i.png",
+            "name": "Misora",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 72,
+            "name_jp": "ミソラ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/391332_i.png",
+            "name": "Monica (Quán cafe)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 71,
+            "name_jp": "モニカ(カフェ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/390251_i.png",
+            "name": "Tamaki (Quán cafe)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 70,
+            "name_jp": "タマキ(カフェ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/392368_i.png",
+            "name": "Shizuru (Noir)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.9",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 69,
+            "name_jp": "シズル(ノワール)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/394782_i.png",
+            "name": "Shiori (Ranger)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 68,
+            "name_jp": "シオリ(レンジャー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/393891_i.png",
+            "name": "Kokkoro (Ranger)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 67,
+            "name_jp": "コッコロ(レンジャー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/395413_i.png",
+            "name": "Lili (Fallen)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 66,
+            "name_jp": "リリ(フォールン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/422889_i.png",
+            "name": "Kurea (Fallen)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 65,
+            "name_jp": "クリア(フォールン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/422890_i.png",
+            "name": "Preshia (Fallen)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 64,
+            "name_jp": "プレシア(フォールン)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/396803_i.png",
+            "name": "Jita (Warlock)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 63,
+            "name_jp": "ジータ(ウォーロック)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/396805_i.png",
+            "name": "Bikara",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 62,
+            "name_jp": "ビカラ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/396804_i.png",
+            "name": "Karin (Alchemist)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 61,
+            "name_jp": "カリン(アルケミスト)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/404132_i.png",
+            "name": "Yuki (Gishouzoku)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 60,
+            "name_jp": "ユキ(儀装束)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/401348_i.png",
+            "name": "Ilya (Gishouzoku)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 59,
+            "name_jp": "イリヤ(儀装束)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406863_i.png",
+            "name": "Neneka (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 58,
+            "name_jp": "ネネカ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406511_i.png",
+            "name": "Akino (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 57,
+            "name_jp": "アキノ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/408845_i.png",
+            "name": "Yukari (Mùa hè)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 56,
+            "name_jp": "ユカリ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406510_i.png",
+            "name": "Kurochi",
+            "role": "DPS",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 55,
+            "name_jp": "クローチェ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/412482_i.png",
+            "name": "Shinobu (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 54,
+            "name_jp": "シノブ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/410707_i.png",
+            "name": "Lanpha (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 53,
+            "name_jp": "ランファ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/410708_i.png",
+            "name": "Kuuka (Mùa hè)",
+            "role": "Tank DPS",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 52,
+            "name_jp": "クウカ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/412483_i.png",
+            "name": "Lilael",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 51,
+            "name_jp": "ライラエル"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/415809_i.png",
+            "name": "Kyaru (Học viên mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 50,
+            "name_jp": "キャル(編入生)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/415811_i.png",
+            "name": "Suzuna (Học viên mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 49,
+            "name_jp": "スズナ(編入生)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/419773_i.png",
+            "name": "Saren (Salasaria)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 48,
+            "name_jp": "サレン(サラサリア)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/419775_i.png",
+            "name": "Ruka (Salasaria)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "8.9",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 47,
+            "name_jp": "ルカ(サラサリア)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/427339_i.png",
+            "name": "Kurejitta (Giáng Sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 46,
+            "name_jp": "クレジッタ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/427340_i.png",
+            "name": "Pecorine (Giáng Sinh)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 45,
+            "name_jp": "ペコリーヌ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431545_i.png",
+            "name": "Shizuru&Rino",
+            "role": "Tank DPS",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 44,
+            "name_jp": "シズル&リノ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431550_i.png",
+            "name": "Hatsune (Năm Mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 43,
+            "name_jp": "ハツネ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431553_i.png",
+            "name": "Inori (Năm Mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 42,
+            "name_jp": "イノリ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431551_i.png",
+            "name": "Kasumi (Năm Mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 41,
+            "name_jp": "カスミ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435323_i.png",
+            "name": "Yui (Astral)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 40,
+            "name_jp": "ユイ(アストラル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435324_i.png",
+            "name": "Hiyori (Astral)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 39,
+            "name_jp": "ヒヨリ(アストラル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435325_i.png",
+            "name": "Rei (Astral)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.9",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 38,
+            "name_jp": "レイ(アストラル)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/436517_i.png",
+            "name": "Yuni (Winter)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 37,
+            "name_jp": "ユニ(ウィンター)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/436518_i.png",
+            "name": "Chloe (Winter)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 36,
+            "name_jp": "クロエ(ウィンター)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/436546_i.png",
+            "name": "Eris",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "10",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 35,
+            "name_jp": "エリス"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/443355_i.png",
+            "name": "Makoto (Commander)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 34,
+            "name_jp": "マコト(コマンダー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/445046_i.png",
+            "name": "Eriko (Commander)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 33,
+            "name_jp": "エリコ(コマンダー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/447766_i.png",
+            "name": "Kyoka (Mùa xuân)",
+            "role": "DPS",
+            "rating_below_6_stars": "9.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 32,
+            "name_jp": "キョウカ(スプリング)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/447785_i.png",
+            "name": "Suzume (Mùa xuân)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 31,
+            "name_jp": "スズメ(スプリング)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/447784_i.png",
+            "name": "Anemone",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 30,
+            "name_jp": "アネモネ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/451821_i.png",
+            "name": "Kururu",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 29,
+            "name_jp": "クルル"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/451825_i.png",
+            "name": "Maho (Công viên mơ ước)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 28,
+            "name_jp": "マホ(ドリームパーク)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/455792_i.png",
+            "name": "Misora (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 27,
+            "name_jp": "ミソラ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/454709_i.png",
+            "name": "Nea (Mùa hè)",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.2",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 26,
+            "name_jp": "ネア(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/456873_i.png",
+            "name": "Lili (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 25,
+            "name_jp": "リリ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/455518_i.png",
+            "name": "Nephinera",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "10",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 24,
+            "name_jp": "ネフィネラ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/458369_i.png",
+            "name": "Ames (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 23,
+            "name_jp": "アメス(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459469_i.png",
+            "name": "Homare (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 22,
+            "name_jp": "ホマレ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459110_i.png",
+            "name": "Shefi (Princess)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 21,
+            "name_jp": "シェフィ(プリンセス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459471_i.png",
+            "name": "Nevia",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 20,
+            "name_jp": "ネビア"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459478_i.png",
+            "name": "Emilia (Mùa hè)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 19,
+            "name_jp": "エミリア(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459479_i.png",
+            "name": "Rem (Mùa hè)",
+            "role": "Tank DPS",
+            "rating_below_6_stars": "9.0",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 18,
+            "name_jp": "レム(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/459480_i.png",
+            "name": "Echidna (Mùa hè)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.7",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 17,
+            "name_jp": "エキドナ(サマー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/465395_i.png",
+            "name": "Nozomi (Thuật sĩ)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.4",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 16,
+            "name_jp": "ノゾミ(アルケミスト)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/466710_i.png",
+            "name": "Lind",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 15,
+            "name_jp": "リンド"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/469222_i.png",
+            "name": "Wurm",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 14,
+            "name_jp": "ヴルム"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/470509_i.png",
+            "name": "Fubuki",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 13,
+            "name_jp": "フブキ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/471919_i.png",
+            "name": "Yamato",
+            "role": "Tank DPS",
+            "rating_below_6_stars": "9.1",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 12,
+            "name_jp": "ヤマト"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/473280_i.png",
+            "name": "Wakana",
+            "role": "Tank Hỗ trợ",
+            "rating_below_6_stars": "9.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 11,
+            "name_jp": "ワカナ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/476005_i.png",
+            "name": "Lailael (Giáng sinh)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 10,
+            "name_jp": "ライラエル(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/477893_i.png",
+            "name": "Io (Giáng sinh)",
+            "role": "Hỗ trợ",
+            "rating_below_6_stars": "8.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 9,
+            "name_jp": "イオ(クリスマス)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/478709_i.png",
+            "name": "Chiel (Mùa đông)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.8",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 8,
+            "name_jp": "チエル(ウィンター)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480419_i.png",
+            "name": "Grace",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 7,
+            "name_jp": "グレイス"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480424_i.png",
+            "name": "Saren (Năm mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 6,
+            "name_jp": "サレン(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480425_i.png",
+            "name": "Monica (Năm mới)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "8.9",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 5,
+            "name_jp": "モニカ(ニューイヤー)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/480830_i.png",
+            "name": "Medusa",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.3",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 4,
+            "name_jp": "メドゥーサ"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/483571_i.png",
+            "name": "Labyrista (Alpha)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.5",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 3,
+            "name_jp": "ラビリスタ(アルファ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/484450_i.png",
+            "name": "Christina (Alpha)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 2,
+            "name_jp": "クリスティーナ(アルファ)"
+        },
+        {
+            "avatar": "https://img.gamewith.jp/article_tools/pricone-re/gacha/484439_i.png",
+            "name": "Neneka (Alpha)",
+            "role": "DPS Hỗ trợ",
+            "rating_below_6_stars": "9.6",
+            "rating_6_stars": "chưa đánh giá",
+            "id": 1,
+            "name_jp": "ネネカ(アルファ)"
+        }
+    ]
+}
