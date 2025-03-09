@@ -11,14 +11,16 @@
 
 {
   character {
-    image_character_banner
+    image_character_main_banner
     catchphrase
     element
-    quick_summary {
+     quick_summary {
       strengths[]
       weaknesses[]
+      exclusive_equipment[]
+      six_star_upgrade[]
     }
-    content_ratings {
+    content_ratings_text {
       quest
       high_difficulty_quest
       arena
@@ -34,25 +36,27 @@
      }
      skills {
           union_burst {
-            icon
+            icon_skill_ub_square
             name
             description
             effects[]
+            six_star_effect[]
           }
            skill_1{
-            icon
+            icon_skill_1_square
              name
              description
              effects[]
+             exclusive_equipment_effect[]
            }
            skill_2{
-            icon
+            icon_skill_2_square
              name
              description
              effects[]
            }
            ex_skill{
-            icon
+            icon_ex_skill_square
              name
              description
              effects[]
@@ -63,24 +67,45 @@
       points[]{
         main_point
         description
-        sub_points
+        sub_point
       }
     }
     weaknesses_and_limitations {
         points[]{
         main_point
         description
-        sub_points
+        sub_point
       }
-      recommended_pairings[]
     }
     overall_evaluation {
       points[]{
         main_point
         description
-        sub_points
+        sub_point
       }
     }
+    equipment_evaluation {
+     points[]{
+        main_point
+        description
+        sub_point
+      }
+    }
+    six_star_improvements {
+      points[]{
+        main_point
+        description
+        sub_point
+      }
+    }
+    six_star_evaluation {
+      points[]{
+        main_point
+        description
+        sub_point
+      }
+    }
+    recommended_pairings_name[]
   }
 }
 

@@ -3,20 +3,26 @@
     "id": 293,
     "name": "Ranpha (Lễ phục)",
     "name_jp": "ランファ(儀装束)",
-    "image_character_banner": "https://img.gamewith.jp/article_tools/pricone-re/gacha/487832_top.jpg",
-    "catchphrase": "Tinh linh ơi, hãy mang giọng nói này đến người ấy!",
+    "image_character_main_banner": "https://img.gamewith.jp/article_tools/pricone-re/gacha/487832_main.jpg",
+    "catchphrase": "Hỡi tinh linh — Hãy đưa giọng nói này đến người ấy —!",
     "element": "風属性",
     "quick_summary": {
       "strengths": [
-        "Là một Attacker gây sát thương tốt trong cả đơn mục tiêu lẫn đa mục tiêu",
-        "Hỗ trợ đồng đội tăng hỏa lực bằng buff/debuff",
-        "Hỗ trợ phòng thủ bằng buff kháng phép/khiên phép"
+        "Là đấu sĩ có thể gây sát thương tốt cả đơn lẻ lẫn diện rộng",
+        "Hỗ trợ sức mạnh đồng đội xuất sắc với các hiệu ứng tăng/giảm chỉ số",
+        "Có khả năng hỗ trợ phòng thủ với tăng phép và lá chắn ma thuật"
       ],
       "weaknesses": [
-        "Cần phải đặt các Magic Attacker ở gần để tăng hiệu quả của buff/khiên"
+        "Cần phải bố trí đấu sĩ phép gần mình để tối đa hóa hiệu quả tăng chỉ số và lá chắn"
+      ],
+      "exclusive_equipment": [
+        "Chưa triển khai"
+      ],
+      "six_star_upgrade": [
+        "Chưa triển khai"
       ]
     },
-    "content_ratings": {
+    "content_ratings_text": {
       "quest": "A",
       "high_difficulty_quest": "SS+",
       "arena": "A",
@@ -32,89 +38,97 @@
     },
     "skills": {
       "union_burst": {
-        "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_2.png",
-        "name": "Rubellite Symphony",
-        "description": "Gây sát thương phép cực lớn lên tất cả kẻ địch trong phạm vi ảnh hưởng, tập trung vào kẻ địch có kháng phép thấp nhất, đồng thời giảm kháng phép của chúng. Sau đó, gây thêm sát thương phép cực lớn. Sát thương của kỹ năng này giảm theo số lượng kẻ địch trong phạm vi.",
+        "icon_skill_ub_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_2.png",
+        "name": "Bản Giao Hưởng Hồng Ngọc",
+        "description": "Gây sát thương phép cực lớn cho tất cả kẻ địch trong phạm vi xung quanh kẻ địch có phòng thủ phép thấp nhất, đồng thời giảm phòng thủ phép của chúng ở mức trung bình. Sau đó gây thêm sát thương phép cực lớn. Sát thương của kỹ năng này giảm theo số lượng kẻ địch trong phạm vi.",
         "effects": [
-          "Gây 348651 sát thương phép lên kẻ địch trong phạm vi",
-          "Giảm 235 kháng phép của kẻ địch trong phạm vi (khoảng 18 giây)",
-          "Gây 348651 sát thương phép lên kẻ địch trong phạm vi"
-        ]
+          "Gây 348651 sát thương phép cho kẻ địch trong phạm vi",
+          "Giảm 235 phòng thủ phép của kẻ địch trong phạm vi (khoảng 18 giây)",
+          "Gây 348651 sát thương phép cho kẻ địch trong phạm vi"
+        ],
+        "six_star_effect": []
       },
       "skill_1": {
-        "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_2.png",
-        "name": "Melodic Breeze",
-        "description": "Gây sát thương phép lớn lên tất cả kẻ địch trong phạm vi ảnh hưởng, tập trung vào kẻ địch có kháng phép thấp nhất, đồng thời giảm tấn công phép trung bình, giảm kháng phép nhỏ và tăng sát thương chí mạng phải chịu. Sau đó, gây thêm sát thương phép lớn. Sát thương của kỹ năng này giảm theo số lượng kẻ địch trong phạm vi.",
+        "icon_skill_1_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_2.png",
+        "name": "Làn Gió Giai Điệu",
+        "description": "Gây sát thương phép lớn cho tất cả kẻ địch trong phạm vi xung quanh kẻ địch có phòng thủ phép thấp nhất, đồng thời giảm tấn công phép ở mức trung bình, giảm phòng thủ phép ở mức nhỏ và tăng nhỏ sát thương khi bị chí mạng. Sau đó gây thêm sát thương phép lớn. Sát thương của kỹ năng này giảm theo số lượng kẻ địch trong phạm vi.",
         "effects": [
-          "Gây 139460 sát thương phép lên kẻ địch trong phạm vi",
+          "Gây 139460 sát thương phép cho kẻ địch trong phạm vi",
           "Giảm 3350 tấn công phép của kẻ địch trong phạm vi",
-          "Giảm 101 kháng phép của kẻ địch trong phạm vi",
-          "Tăng 6% sát thương chí mạng phải chịu của kẻ địch trong phạm vi",
-          "Gây 139460 sát thương phép lên kẻ địch trong phạm vi (hiệu ứng debuff kéo dài khoảng 12 giây)"
-        ]
+          "Giảm 101 phòng thủ phép của kẻ địch trong phạm vi",
+          "Tăng 6% sát thương chí mạng nhận vào của kẻ địch trong phạm vi",
+          "Gây 139460 sát thương phép cho kẻ địch trong phạm vi ※Tất cả hiệu ứng giảm kéo dài khoảng 12 giây"
+        ],
+        "exclusive_equipment_effect": []
       },
       "skill_2": {
-        "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
-        "name": "Harmonic Circle",
-        "description": "Tăng mạnh kháng phép cho toàn bộ đồng đội. Hơn nữa, tăng cực mạnh tấn công phép cho tất cả đồng đội trong phạm vi ảnh hưởng, tập trung vào bản thân và tạo một lớp khiên phép. Lượng tấn công phép tăng thêm và lượng sát thương mà khiên phép có thể hấp thụ tăng lên tối đa 2 lần, tùy thuộc vào tấn công phép của đồng đội gần nhất ngoài bản thân.",
+        "icon_skill_2_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
+        "name": "Vòng Tròn Hòa Âm",
+        "description": "Tăng lớn phòng thủ phép cho toàn bộ đồng đội. Đồng thời, tăng cực lớn tấn công phép và triển khai lá chắn vô hiệu hóa phép cho tất cả đồng đội trong phạm vi xung quanh bản thân. Mức tăng tấn công phép và lượng sát thương vô hiệu hóa của lá chắn sẽ tăng lên tối đa gấp 2 lần tùy theo tấn công phép của đồng đội gần nhất (không tính bản thân).",
         "effects": [
-          "Tăng 335 kháng phép cho toàn bộ đồng đội",
+          "Tăng 335 phòng thủ phép cho toàn bộ đồng đội",
           "Tăng 10050 tấn công phép cho đồng đội trong phạm vi",
-          "Tạo khiên phép hấp thụ 8040 sát thương phép (hiệu ứng buff kéo dài khoảng 12 giây)",
-          "Buff tấn công phép/khiên phép ảnh hưởng từ hàng sau đến hàng trước gần Shizuru"
+          "Triển khai lá chắn vô hiệu hóa 8040 sát thương phép ※Tất cả hiệu ứng tăng kéo dài khoảng 12 giây ※Tăng tấn công phép/lá chắn có hiệu lực từ hàng sau đến khoảng vị trí của Shizuru ở hàng trước"
         ]
       },
       "ex_skill": {
-        "icon": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_18.png",
-        "name": "Ritual Voice",
-        "description": "Tăng trung bình tấn công phép của bản thân khi bắt đầu trận chiến.",
-        "effects": [
-          "Thông tin đang được chuẩn bị. Sẽ cập nhật ngay khi có thông tin."
-        ]
+        "icon_ex_skill_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_18.png",
+        "name": "Giọng Nói Nghi Lễ",
+        "description": "Khi bắt đầu trận đấu, tăng trung bình tấn công phép cho bản thân.",
+        "effects": []
       }
     },
     "strengths_and_usage": {
       "points": [
         {
-          "main_point": "Có thể gây sát thương trong cả đơn mục tiêu lẫn nhiều mục tiêu",
-          "description": "Các kỹ năng tấn công của Ranpha (Lễ phục) là UB/Skill 1 đều là kỹ năng gây sát thương diện rộng, có thể gây sát thương tốt trong Thâm Vực và Multi Boss. Không chỉ vậy, vì mỗi kỹ năng đều tấn công 2 lần nên vẫn có thể gây đủ sát thương lên các Boss đơn mục tiêu.",
-          "sub_points": null
+          "main_point": "Gây sát thương tốt cả đơn lẻ lẫn diện rộng",
+          "description": "Các kỹ năng tấn công của Ranpha (Lễ phục) như UB/Kỹ năng 1 đều là tấn công diện rộng, có thể gây sát thương hiệu quả trong các khu vực sâu hoặc boss nhiều mục tiêu. Không chỉ vậy, mỗi kỹ năng đều tấn công 2 lần nên cũng gây được sát thương đáng kể khi đối đầu với boss đơn lẻ.",
+          "sub_point": null
         },
         {
-          "main_point": "Sở hữu nhiều debuff giảm phòng thủ",
-          "description": "UB/Skill 1 có thể gây debuff giảm phòng thủ. Giá trị hiệu ứng của Skill 1 khá khiêm tốn nhưng tần suất sử dụng cao, có thể hoạt động như một Sub Debuffer.",
-          "sub_points": null
+          "main_point": "Sở hữu nhiều hiệu ứng giảm phòng thủ",
+          "description": "UB/Kỹ năng 1 có khả năng giảm phòng thủ đối phương. Mặc dù hiệu quả của Kỹ năng 1 khá khiêm tốn nhưng tần suất kích hoạt cao, giúp cô hoạt động hiệu quả như một nhân vật hỗ trợ giảm phòng thủ phụ.",
+          "sub_point": null
         },
         {
           "main_point": "Hỗ trợ đồng đội cả tấn công lẫn phòng thủ",
-          "description": "Có thể hỗ trợ đồng đội bằng buff kháng phép toàn đội và buff tấn công phép/khiên phép diện rộng của Skill 2. Chủ yếu hiệu quả với những kẻ địch gây sát thương phép.",
-          "sub_points": null
+          "description": "Kỹ năng 2 với khả năng tăng phòng thủ phép toàn đội, tăng tấn công phép diện rộng và lá chắn ma thuật giúp cô có thể hỗ trợ đồng đội hiệu quả. Đặc biệt hữu ích khi đối đầu với kẻ địch sử dụng tấn công phép.",
+          "sub_point": null
         }
       ]
     },
     "weaknesses_and_limitations": {
       "points": [
         {
-          "main_point": "Muốn đặt đồng đội có tấn công phép cao nhất ở gần",
-          "description": "Buff tấn công phép/khiên phép diện rộng của Ranpha tăng theo tấn công phép của đồng đội gần nhất, vì vậy để phát huy tối đa sức mạnh thì cần phải đặt Ma Pháp Sư ở vị trí gần nhất. Tại thời điểm ra mắt, việc kết hợp với Misora (Swimsuit) đứng ngay cạnh trong đội hình là cơ bản.",
-          "sub_points": null
+          "main_point": "Cần bố trí đồng đội có tấn công phép cao ở vị trí gần nhất",
+          "description": "Hiệu ứng tăng tấn công phép và lá chắn của Ranpha sẽ tăng theo chỉ số tấn công phép của đồng đội gần nhất, vì vậy để phát huy tối đa hiệu quả, cần đặt một đấu sĩ phép ở vị trí gần nhất. Tại thời điểm ra mắt, việc kết hợp với Misora (Đồ bơi) ở vị trí liền kề là lựa chọn cơ bản.",
+          "sub_point": null
         }
-      ],
-      "recommended_pairings": [
-        "ミソラ(サマー)",
-        "フィオ",
-        "スズメ(スプリング)",
-        "アネモネ"
       ]
     },
     "overall_evaluation": {
       "points": [
         {
-          "main_point": "Attacker đa năng có thể sử dụng trong Boss/Thâm Vực",
-          "description": "Ranpha (Lễ phục) là một Main Attacker của team Phong Ma Pháp, có thể hoạt động tốt ở nhiều nơi như Boss đơn mục tiêu/đa mục tiêu hay trên đường đi ở Thâm Vực.",
-          "sub_points": null
+          "main_point": "Đấu sĩ đa năng hiệu quả trong các trận boss và khu vực sâu",
+          "description": "Ranpha (Lễ phục) là đấu sĩ chính trong đội hình phép hệ gió, có thể hoạt động hiệu quả trong nhiều tình huống khác nhau như đối đầu với boss đơn lẻ/nhiều mục tiêu hoặc trong các khu vực sâu.",
+          "sub_point": null
         }
       ]
-    }
+    },
+    "equipment_evaluation": {
+      "points": []
+    },
+    "six_star_improvements": {
+      "points": []
+    },
+    "six_star_evaluation": {
+      "points": []
+    },
+    "recommended_pairings_name": [
+      "水着ミソラ",
+      "フィオ",
+      "スズメ(スプリング)",
+      "アネモネ"
+    ]
   }
 }
