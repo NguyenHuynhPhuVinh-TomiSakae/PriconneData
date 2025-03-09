@@ -34,6 +34,12 @@
         "boss_battle": "SS",
         "elemental_evaluation": "SS"
       },
+      "basic_information": {
+        "type": "前衛 / 物理攻撃",
+        "initial_rarity": "★★☆☆☆",
+        "race": "Ma tộc",
+        "guild": "Đoàn lữ hành Hoàng hôn"
+      },
       "max_stats": {
         "hp": 12310,
         "physical_attack": 6800,

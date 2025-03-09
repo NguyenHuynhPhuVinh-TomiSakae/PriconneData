@@ -27,6 +27,12 @@
       boss_battle
       elemental_evaluation 
     }
+    basic_information {
+      type
+      initial_rarity
+      race
+      guild
+    }
      max_stats {
       hp
       physical_attack
@@ -117,4 +123,4 @@
 "耐久支援型": "Tank Hỗ trợ",    
 "耐久攻撃型": "Tank DPS" 
 
-Dịch các thông tin sau sang tiếng việt dựa trên ngữ cảnh là game gacha anime princess connect re dive. Lưu ý trường name, name_jp, recommended_pairings, element không cần dịch, trường content_ratings thay tiếng nhật bằng ký hiệu phù hợp như + để thành các chỉ số như D,C,B,A, SS, SS+,.... Đảm bào dịch cả trường name của skill và effect của skill cho phù hợp! Nếu có tên tiếng nhật trong mô tả thì dùng chính xác tên trong trường name. Khi dịch thì đồng bộ sài tiếng việt hết trừ khi có các thuật ngữ tiếng anh của game để cho phù hợp! Đối với các tên Skill thì dịch cho đúng sang tiếng việt luôn!
+Dịch các thông tin sau sang tiếng việt dựa trên ngữ cảnh là game gacha anime princess connect re dive. Lưu ý trường name, name_jp, recommended_pairings, element, type không cần dịch, trường content_ratings thay tiếng nhật bằng ký hiệu phù hợp như + để thành các chỉ số như D,C,B,A, SS, SS+,.... Đảm bào dịch cả trường name của skill và effect của skill cho phù hợp! Nếu có tên tiếng nhật trong mô tả thì dùng chính xác tên trong trường name. Khi dịch thì đồng bộ sài tiếng việt hết trừ khi có các thuật ngữ tiếng anh của game để cho phù hợp! Đối với các tên Skill thì dịch cho đúng sang tiếng việt luôn!

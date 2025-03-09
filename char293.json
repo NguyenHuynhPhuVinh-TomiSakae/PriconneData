@@ -29,6 +29,12 @@
       "boss_battle": "SS+",
       "elemental_evaluation": "SS+"
     },
+    "basic_information": {
+      "type": "後衛 / 魔法攻撃",
+      "initial_rarity": "★★★☆☆",
+      "race": "Ma tộc",
+      "guild": "Quân đoàn Rage"
+    },
     "max_stats": {
       "hp": 29244,
       "physical_attack": 0,

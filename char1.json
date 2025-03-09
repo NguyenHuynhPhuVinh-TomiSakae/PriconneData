@@ -37,6 +37,12 @@
       "boss_battle": "A",
       "elemental_evaluation": "S+"
     },
+    "basic_information": {
+      "type": "前衛 / 物理攻撃",
+      "initial_rarity": "★★★☆☆",
+      "race": "Nhân loại",
+      "guild": "Carmina"
+    },
     "max_stats": {
       "hp": 26237,
       "physical_attack": 3977,

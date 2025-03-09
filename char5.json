@@ -36,6 +36,12 @@
         "boss_battle": "S+",
         "elemental_evaluation": "SS"
       },
+      "basic_information": {
+        "type": "前衛 / 物理攻撃",
+        "initial_rarity": "★★★☆☆",
+        "race": "Nhân loại",
+        "guild": "？？？"
+      },
       "max_stats": {
         "hp": 19930,
         "physical_attack": 6593,

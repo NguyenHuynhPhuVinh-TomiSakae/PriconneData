@@ -35,6 +35,12 @@
       "boss_battle": "S+",
       "elemental_evaluation": "S+"
     },
+    "basic_information": {
+        "type": "前衛 / 物理攻撃",
+        "initial_rarity": "★★★☆☆",
+        "race": "Nhân loại",
+        "guild": "Mê cung"
+      },
     "max_stats": {
       "hp": 24868,
       "physical_attack": 4249,

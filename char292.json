@@ -28,6 +28,12 @@
       "boss_battle": "SS+(tạm thời)",
       "elemental_evaluation": "SS+(tạm thời)"
     },
+    "basic_information": {
+      "type": "後衛 / 魔法攻撃",
+      "initial_rarity": "★★★☆☆",
+      "race": "???",
+      "guild": "？？？"
+    },
     "max_stats": {
       "hp": 69139,
       "physical_attack": 0,

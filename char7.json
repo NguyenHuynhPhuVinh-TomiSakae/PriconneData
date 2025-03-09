@@ -39,6 +39,12 @@
         "boss_battle": "B",
         "elemental_evaluation": "S+"
       },
+      "basic_information": {
+        "type": "前衛 / 物理攻撃",
+        "initial_rarity": "★★☆☆☆",
+        "race": "Ma tộc",
+        "guild": "Quân đội Vương quốc Ma giả (Diabolos)"
+      },
       "max_stats": {
         "hp": 20496,
         "physical_attack": 3309,

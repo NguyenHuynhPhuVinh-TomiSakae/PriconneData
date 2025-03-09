@@ -36,6 +36,12 @@
         "boss_battle": "S",
         "elemental_evaluation": "S"
       },
+      "basic_information": {
+        "type": "前衛 / 物理攻撃",
+        "initial_rarity": "★★☆☆☆",
+        "race": "Thú nhân tộc",
+        "guild": "Đội tự vệ (Kaon)"
+      },
       "max_stats": {
         "hp": 12168,
         "physical_attack": 6216,

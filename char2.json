@@ -39,6 +39,12 @@
         "boss_battle": "SS",
         "elemental_evaluation": "SS"
       },
+      "basic_information": {
+        "type": "前衛 / 物理攻撃",
+        "initial_rarity": "★★★☆☆",
+        "race": "Nhân loại",
+        "guild": "Tập đoàn Mercurius"
+      },
       "max_stats": {
         "hp": 20922,
         "physical_attack": 5845,
