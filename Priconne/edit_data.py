@@ -1,7 +1,7 @@
 import json
 
 # Đọc file JSON
-with open('data.json', 'r', encoding='utf-8') as file:
+with open('Priconne/data.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Bảng ánh xạ vai trò
@@ -19,8 +19,12 @@ total_characters = len(data['characters'])
 
 # Duyệt qua từng nhân vật để cập nhật thông tin
 for i, character in enumerate(data['characters']):
-    # Luôn đánh lại ID từ cao đến thấp
-    character['id'] = total_characters - i
+    # Xóa ID cũ
+    if 'id' in character:
+        del character['id']
+    
+    # Đánh lại ID mới từ 1 đến số lượng nhân vật
+    character['id'] = i + 1
     
     # Chuyển đổi vai trò sang tiếng Việt
     if character['role'] in role_mapping:
@@ -40,7 +44,7 @@ for i, character in enumerate(data['characters']):
         character['rating_6_stars'] = character['rating_6_stars'].replace('(仮)', '(tạm thời)')
 
 # Lưu file JSON đã cập nhật
-with open('data.json', 'w', encoding='utf-8') as file:
+with open('Priconne/data.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 print(f"Đã hoàn thành cập nhật cho {total_characters} nhân vật.")
