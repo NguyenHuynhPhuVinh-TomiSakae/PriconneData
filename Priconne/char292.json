@@ -23,7 +23,7 @@
     },
     "content_ratings_text": {
       "quest": "S",
-      "high_difficulty_quest": "SS+(tạm thời)",
+     "high_difficulty_quest": "SS+(tạm thời)",
       "arena": "S(tạm thời)",
       "boss_battle": "SS+(tạm thời)",
       "elemental_evaluation": "SS+(tạm thời)"
@@ -38,7 +38,7 @@
     "skills": {
       "union_burst": {
         "icon_skill_ub_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
-        "name": "Fiore Felicita",
+        "name": "Hạnh Phúc Hoa",
         "description": "Tăng mạnh phòng thủ vật lý và phòng thủ phép cho toàn đội, áp dụng trạng thái hồi HP liên tục, và triển khai lá chắn vô hiệu hóa sát thương vật lý/phép.",
         "effects": [
           "Tăng phòng thủ vật lý của toàn đội lên 402",
@@ -50,7 +50,7 @@
       },
       "skill_1": {
         "icon_skill_1_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
-        "name": "Luce Produrre",
+        "name": "Ánh Sáng Sản Sinh",
         "description": "Áp dụng hiệu ứng giảm sát thương vật lý và giảm sát thương phép cho tất cả đồng đội đang có lá chắn. Ngoài ra, hồi HP trung bình và tăng mạnh tốc độ hành động cho tất cả đồng đội thuộc hệ Phong.",
         "effects": [
           "Giảm 15% sát thương vật lý nhận vào cho đồng đội đang có lá chắn",
@@ -62,7 +62,7 @@
       },
       "skill_2": {
         "icon_skill_2_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
-        "name": "Fata Palpito",
+        "name": "Nhịp Đập Tiên Nữ",
         "description": "Tăng mạnh sức tấn công vật lý và sức tấn công phép cho toàn đội, tăng nhẹ sát thương khi đánh chí mạng vật lý và sát thương khi đánh chí mạng phép. Hiệu quả này sẽ tăng cao hơn đối với đồng đội đang có lá chắn. Ngoài ra, hồi TP trung bình cho tất cả đồng đội thuộc hệ Phong.",
         "effects": [
           "Tăng sức tấn công vật lý và sức tấn công phép lên 10720 cho đồng đội đang có lá chắn",
@@ -74,7 +74,7 @@
       },
       "ex_skill": {
         "icon_ex_skill_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_18.png",
-        "name": "Little Nopium",
+        "name": "Tiên Nữ Nhỏ",
         "description": "Khi bắt đầu trận đấu, tăng trung bình sức tấn công phép của bản thân.",
         "effects": [
           "※Hiện đang chuẩn bị. Thông tin sẽ được cập nhật ngay khi có."

@@ -47,7 +47,7 @@
     "skills": {
       "union_burst": {
         "icon_skill_ub_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_4.png",
-        "name": "Live On Stage",
+        "name": "Biểu Diễn Trên Sân Khấu",
         "description": "【Khiêu khích】Tăng nhẹ tấn công vật lý cho toàn đội, tăng mạnh phòng thủ vật lý và phòng thủ phép cho bản thân. Đồng thời khiêu khích toàn bộ kẻ địch.",
         "effects": [
           "Tăng tấn công vật lý của toàn đội lên 509",
@@ -61,7 +61,7 @@
       },
       "skill_1": {
         "icon_skill_1_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_13.png",
-        "name": "Claire Slash",
+        "name": "Chém Claire",
         "description": "Gây sát thương vật lý nhẹ cho tất cả kẻ địch ở phía trước, đồng thời gây choáng.",
         "effects": [
           "Gây 1122 sát thương vật lý cho kẻ địch trong phạm vi",
@@ -73,7 +73,7 @@
       },
       "skill_2": {
         "icon_skill_2_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_5.png",
-        "name": "Idol Yell",
+        "name": "Cổ Vũ Thần Tượng",
         "description": "Hồi phục HP trung bình cho tất cả đồng đội xung quanh bản thân.",
         "effects": [
           "Hồi phục 2035 HP cho đồng đội trong phạm vi"
@@ -81,7 +81,7 @@
       },
       "ex_skill": {
         "icon_ex_skill_square": "https://img.gamewith.jp/article_tools/pricone-re/gacha/skill_19.png",
-        "name": "Luminous Smile",
+        "name": "Nụ Cười Rạng Rỡ",
         "description": "Khi bắt đầu trận đấu, tăng trung bình phòng thủ vật lý cho bản thân.",
         "effects": [
           "Tăng trung bình phòng thủ vật lý cho bản thân",
