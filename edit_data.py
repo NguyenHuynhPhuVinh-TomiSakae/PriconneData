@@ -1,7 +1,7 @@
 import json
 
 # Đọc file JSON
-with open('Priconne/data.json', 'r', encoding='utf-8') as file:
+with open('data.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Bảng ánh xạ vai trò
@@ -44,7 +44,7 @@ for i, character in enumerate(data['characters']):
         character['rating_6_stars'] = character['rating_6_stars'].replace('(仮)', '(tạm thời)')
 
 # Lưu file JSON đã cập nhật
-with open('Priconne/data.json', 'w', encoding='utf-8') as file:
+with open('data.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 print(f"Đã hoàn thành cập nhật cho {total_characters} nhân vật.")
